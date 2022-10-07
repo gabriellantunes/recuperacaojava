@@ -1,3 +1,5 @@
+//herança
+
 public class veiculo {
     String modelo;
     String Velocidade;
