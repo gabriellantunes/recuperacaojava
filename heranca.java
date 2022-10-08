@@ -10,7 +10,7 @@ public class veiculo {
 public class carro extends veiculo {
     String Modelo;
     int Portas;
-    String Ano;
+    int Ano;
 }
 
 public class moto extends veiculo {
